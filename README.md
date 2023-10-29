@@ -1,7 +1,10 @@
 LAN8720 board for MangoPi MQ-Pro
 ================================
 
+![Board picture](img/IMG_2023-10-29-09-21-29-466.jpg)
+
 The schematic and PCB are in HW section. Feel free to make it, it is quite cool add-on board.
+Schematic: [PDF](hw/meta/schematic.pdf)
 
 I run it with the Nezha Ubuntu image with the patch applied using this:
 
