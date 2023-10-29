@@ -1,17 +1,25 @@
 LAN8720 board for MangoPi MQ-Pro
 ================================
 
-In the first iteration I tested the experimental patch based on `arch/riscv/boot/dts/allwinner/sun20i-d1-nezha.dts` rather than `arch/riscv/boot/dts/allwinner/sun20i-d1-mangopi-mq-pro.dts` with bread-board version of the schematic.
+The schematic and PCB are in HW section. Feel free to make it, it is quite cool add-on board.
 
-The patch and the table of connections is added. It will be moved to the legacy secion once I have the v1 schematics, board and final DT.
+I run it with the Nezha Ubuntu image with the patch applied using this:
+
+* clone Linux kernel tree (`git clone https://github.com/torvalds/linux.git`)
+* apply the patch from this repo (`git am 0001-Add-LAN8720a-PHY-to-MangoPI-MQ-Pro-board.patch`)
+* build DTB `ARCH=riscv make dtbs`
+* scp the result `arch/riscv/boot/dts/allwinner/sun20i-d1-mangopi-mq-pro-lan8720.dtb` to `/boot` on MangoPi MQ-Pro
+* link the current kernel DTB to this file (in my case `cd boot; rm dtb-6.2.0-35-generic; ln -s sun20i-d1-mangopi-mq-pro-lan8720.dtb dtb-6.2.0-35-generic`)
+* reboot the MangoPi MQ-Pro
 
 License
 -------
 
-TBD: This will be open source/OpenHW for sure.
+HW: The TAPR Open Hardware License Version 1.0
+SW: GNU GPLv3
 
-dmesg output
-------------
+Expected dmesg output
+---------------------
 
 ```
 [  104.125393] dwmac-sun8i 4500000.ethernet: IRQ eth_wake_irq not found

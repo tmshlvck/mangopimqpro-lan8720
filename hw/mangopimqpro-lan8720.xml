@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/th/wip/mangopimqpro-lan8720/hw/mangopimqpro-lan8720.kicad_sch</source>
+    <date>Mon 31 Jul 2023 01:39:57 PM CEST</date>
+    <tool>Eeschema 7.0.6-1.fc38</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MangoPi MQ Pro 10/100 LAN PHY</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>mangopimqpro-lan8720.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B104MACNNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B104MACNNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56ea4127-be9a-4b57-92da-ddf143a21ac0</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B104MACNNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B104MACNNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c5d2caf-0626-4d00-a53f-52f28a2da104</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B104MACNNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B104MACNNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a59facf5-bd9f-45d9-9f86-ac6a04e8f8b8</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B105KOFNNNG</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B105KOFNNNG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dba7f618-e29a-458f-b1d6-e1c44ce40980</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>470p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B471KBANFNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B471KBANFNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1ad1feb-6bf2-473a-96fa-b5b3ef01f330</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B104MACNNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B104MACNNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70754cb8-5fd2-44fd-84cd-a384b21839c4</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B104MACNNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B104MACNNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47f83b05-73fc-40d8-a992-73231a55879a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B104MACNNNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B104MACNNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>432cb094-4d9a-4cff-bc44-dc5da81ecba9</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CL21B105KOFNNNG</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="PN" value="CL21B105KOFNNNG"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef42bcd8-7fbd-4c85-8036-eee2d91fd462</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x25_Socket</value>
+      <footprint>Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal</footprint>
+      <fields>
+        <field name="PN">FH12-24S-0.5SH(55)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x25_Socket" description="Generic connector, single row, 01x25, script generated"/>
+      <property name="PN" value="FH12-24S-0.5SH(55)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x25, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3203a3d2-33f6-4406-b634-acd19a6d5eb0</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x25_Socket</value>
+      <footprint>Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal</footprint>
+      <fields>
+        <field name="PN">FH12-24S-0.5SH(55)</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x25_Socket" description="Generic connector, single row, 01x25, script generated"/>
+      <property name="PN" value="FH12-24S-0.5SH(55)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x25, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7da088b1-fa00-4041-ab01-7a6d5bfc2438</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>RJ45_Amphenol_RJMG1BD3B8K1ANR</value>
+      <footprint>Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR</footprint>
+      <datasheet>https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf</datasheet>
+      <fields>
+        <field name="PN">RJMG1BD3B8K1ANR</field>
+      </fields>
+      <libsource lib="Connector" part="RJ45_Amphenol_RJMG1BD3B8K1ANR" description="1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX"/>
+      <property name="PN" value="RJMG1BD3B8K1ANR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX"/>
+      <property name="ki_keywords" value="RJ45 Magjack Socket"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90664b89-b690-425a-a67f-55fe7db02fea</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>1uH</value>
+      <footprint>Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">MCQ1V3216-1R0-R</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="PN" value="MCQ1V3216-1R0-R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Inductor"/>
+      <property name="ki_keywords" value="inductor choke coil reactor magnetic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06538114-0539-42f2-972e-0f68ad09fe3d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT330R</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e53e268-9085-424c-8bae-64a83f102351</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT330R</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT330R"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2b17086-2198-4bed-9eb1-21b8e2790dd4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df239a4d-96e5-4685-8e16-915e21164f44</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ddbaa44-e4c5-45a9-a9ac-8266b5e13f90</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60a73a3d-a872-47a2-b868-6977586896fb</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d547f7b3-d14c-4bbd-a2a6-9c092ab52d9c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CRCW08055K00JNTA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="CRCW08055K00JNTA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ab996d4-5101-4ff6-b279-b39fd8f78c38</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>753c7087-8c4b-4c6a-b072-2ffd11bf50ed</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45ededec-d94e-43db-a980-433268569e3c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>50</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805JT51R0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805JT51R0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>194c0399-8b2f-44ee-ba9e-8a46bc97c5f4</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CRCW08055K00JNTA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="CRCW08055K00JNTA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>060bb2f2-83d4-4fda-906f-0160c8e68c78</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">CRCW08055K00JNTA</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="CRCW08055K00JNTA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3582dfb5-c1db-4e21-a511-7d250b7ee01f</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>12k1</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="PN">RMCF0805FG12K1</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="PN" value="RMCF0805FG12K1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98a26c3b-cc01-4509-9848-6978a11f669f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LAN8720A</value>
+      <footprint>Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</datasheet>
+      <fields>
+        <field name="PN">LAN8720A-CP-ABC</field>
+      </fields>
+      <libsource lib="Interface_Ethernet" part="LAN8720A" description="LAN8720 Ethernet PHY with RMII interface, QFN-24"/>
+      <property name="PN" value="LAN8720A-CP-ABC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="LAN8720 Ethernet PHY with RMII interface, QFN-24"/>
+      <property name="ki_keywords" value="ETH PHY RMII"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3442513-c074-4b6e-9664-083b8ca5939e</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>SG-7050CAN</value>
+      <footprint>Oscillator:Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm</footprint>
+      <datasheet>https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&amp;lang=en</datasheet>
+      <fields>
+        <field name="PN">SG7050CAN 50.000000M-TJGA0</field>
+      </fields>
+      <libsource lib="Oscillator" part="SG-7050CAN" description="CMOS Clock Oscillator 1 to 75 MHz"/>
+      <property name="PN" value="SG7050CAN 50.000000M-TJGA0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="mangopimqpro-lan8720.kicad_sch"/>
+      <property name="ki_description" value="CMOS Clock Oscillator 1 to 75 MHz"/>
+      <property name="ki_keywords" value="Crystal Clock Oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee0d0001-aa71-49d6-ae66-08bea206b3c6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x25_Socket">
+      <description>Generic connector, single row, 01x25, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J1</field>
+        <field name="Value">Conn_01x25_Socket</field>
+        <field name="Footprint">Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal</field>
+        <field name="Datasheet">~</field>
+        <field name="PN">FH12-24S-0.5SH(55)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="MP" name="Pin_25" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="RJ45_Amphenol_RJMG1BD3B8K1ANR">
+      <description>1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX</description>
+      <docs>https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf</docs>
+      <footprints>
+        <fp>RJ45*Amphenol*RJMG1BD3B8K1ANR*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">RJ45_Amphenol_RJMG1BD3B8K1ANR</field>
+        <field name="Footprint">Connector_RJ:RJ45_Amphenol_RJMG1BD3B8K1ANR</field>
+        <field name="Datasheet">https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf</field>
+      </fields>
+      <pins>
+        <pin num="L1" name="LEDY_A" type="passive"/>
+        <pin num="L2" name="LEDY_K" type="passive"/>
+        <pin num="L3" name="LEDG_K" type="passive"/>
+        <pin num="L4" name="LEDG_A" type="passive"/>
+        <pin num="R1" name="TD+" type="passive"/>
+        <pin num="R2" name="TD-" type="passive"/>
+        <pin num="R3" name="RD+" type="passive"/>
+        <pin num="R4" name="TCT" type="passive"/>
+        <pin num="R5" name="RCT" type="passive"/>
+        <pin num="R6" name="RD-" type="passive"/>
+        <pin num="R7" name="NC" type="no_connect"/>
+        <pin num="R8" name="GND" type="power_in"/>
+        <pin num="SH" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_Ethernet" part="LAN8720A">
+      <description>LAN8720 Ethernet PHY with RMII interface, QFN-24</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</docs>
+      <footprints>
+        <fp>VQFN*1EP*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LAN8720A</field>
+        <field name="Footprint">Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD2A" type="power_in"/>
+        <pin num="2" name="LED2/~{INTSEL}" type="bidirectional"/>
+        <pin num="3" name="LED1/REGOFF" type="bidirectional"/>
+        <pin num="4" name="XTAL2" type="output"/>
+        <pin num="5" name="XTAL1/CLKIN" type="input"/>
+        <pin num="6" name="VDDCR" type="power_in"/>
+        <pin num="7" name="RXD1/MODE1" type="bidirectional"/>
+        <pin num="8" name="RXD0/MODE0" type="bidirectional"/>
+        <pin num="9" name="VDDIO" type="power_in"/>
+        <pin num="10" name="RXER/PHYAD0" type="output"/>
+        <pin num="11" name="CRS_DV/MODE2" type="bidirectional"/>
+        <pin num="12" name="MDIO" type="bidirectional"/>
+        <pin num="13" name="MDC" type="input"/>
+        <pin num="14" name="~{INT}/REFCLKO" type="output"/>
+        <pin num="15" name="~{RST}" type="input"/>
+        <pin num="16" name="TXEN" type="input"/>
+        <pin num="17" name="TXD0" type="input"/>
+        <pin num="18" name="TXD1" type="input"/>
+        <pin num="19" name="VDD1A" type="power_in"/>
+        <pin num="20" name="TXN" type="bidirectional"/>
+        <pin num="21" name="TXP" type="bidirectional"/>
+        <pin num="22" name="RXN" type="bidirectional"/>
+        <pin num="23" name="RXP" type="bidirectional"/>
+        <pin num="24" name="RBIAS" type="passive"/>
+        <pin num="25" name="VSS" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Oscillator" part="SG-7050CAN">
+      <description>CMOS Clock Oscillator 1 to 75 MHz</description>
+      <docs>https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&amp;lang=en</docs>
+      <footprints>
+        <fp>Oscillator*SMD*SeikoEpson*SG8002CA*7.0x5.0mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">SG-7050CAN</field>
+        <field name="Footprint">Oscillator:Oscillator_SMD_SeikoEpson_SG8002CA-4Pin_7.0x5.0mm</field>
+        <field name="Datasheet">https://support.epson.biz/td/api/doc_check.php?dl=brief_SG7050CAN&amp;lang=en</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{ST}" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Interface_Ethernet">
+      <uri>/usr/share/kicad/symbols//Interface_Ethernet.kicad_sym</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>/usr/share/kicad/symbols//Oscillator.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="J1" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="J1" pin="MP" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J2" pin="MP" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="J3" pin="R8" pinfunction="GND" pintype="power_in"/>
+      <node ref="J3" pin="SH" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="VSS" pintype="power_in"/>
+      <node ref="X2" pin="2" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="MDC">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="MDC" pintype="input"/>
+    </net>
+    <net code="3" name="MDIO">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="MDIO" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="Net-(J3-LEDG_K)">
+      <node ref="J3" pin="L3" pinfunction="LEDG_K" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(J3-LEDY_K)">
+      <node ref="J3" pin="L2" pinfunction="LEDY_K" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J3-RD+)">
+      <node ref="J3" pin="R3" pinfunction="RD+" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="RXP" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Net-(J3-RD-)">
+      <node ref="J3" pin="R6" pinfunction="RD-" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RXN" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(J3-TD+)">
+      <node ref="J3" pin="R1" pinfunction="TD+" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="TXP" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="Net-(J3-TD-)">
+      <node ref="J3" pin="R2" pinfunction="TD-" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="TXN" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="Net-(U1-LED1{slash}REGOFF)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="LED1/REGOFF" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="Net-(U1-LED2{slash}~{INTSEL})">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="LED2/~{INTSEL}" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="Net-(U1-RBIAS)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="RBIAS" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(U1-XTAL1{slash}CLKIN)">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="XTAL1/CLKIN" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(U1-~{INT}{slash}REFCLKO)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="~{INT}/REFCLKO" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(X2-OUT)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="X2" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="16" name="RMII-CRS-DV">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="CRS_DV/MODE2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="RMII-RXD0">
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="RXD0/MODE0" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="RMII-RXD1">
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="RXD1/MODE1" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="RMII-RXER">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="RXER/PHYAD0" pintype="output"/>
+    </net>
+    <net code="20" name="RMII-TXCK">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="RMII-TXD0">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="TXD0" pintype="input"/>
+    </net>
+    <net code="22" name="RMII-TXD1">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="TXD1" pintype="input"/>
+    </net>
+    <net code="23" name="RMII-TXEN">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="TXEN" pintype="input"/>
+    </net>
+    <net code="24" name="RST">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="~{RST}" pintype="input"/>
+    </net>
+    <net code="25" name="VDD">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VDDCR" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="VDDIO" pintype="power_in"/>
+      <node ref="X2" pin="1" pinfunction="~{ST}" pintype="input"/>
+      <node ref="X2" pin="4" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="26" name="VDDA">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J3" pin="L1" pinfunction="LEDY_A" pintype="passive"/>
+      <node ref="J3" pin="L4" pinfunction="LEDG_A" pintype="passive"/>
+      <node ref="J3" pin="R4" pinfunction="TCT" pintype="passive"/>
+      <node ref="J3" pin="R5" pinfunction="RCT" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VDD2A" pintype="power_in"/>
+      <node ref="U1" pin="19" pinfunction="VDD1A" pintype="power_in"/>
+    </net>
+    <net code="27" name="unconnected-(J1-Pin_1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(J1-Pin_11-Pad11)">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(J1-Pin_13-Pad13)">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(J1-Pin_14-Pad14)">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(J1-Pin_15-Pad15)">
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(J1-Pin_19-Pad19)">
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(J1-Pin_20-Pad20)">
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(J1-Pin_22-Pad22)">
+      <node ref="J1" pin="22" pinfunction="Pin_22" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(J1-Pin_24-Pad24)">
+      <node ref="J1" pin="24" pinfunction="Pin_24" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(J2-Pin_1-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J2-Pin_3-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J2-Pin_5-Pad5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J2-Pin_6-Pad6)">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J2-Pin_10-Pad10)">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(J2-Pin_11-Pad11)">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(J2-Pin_12-Pad12)">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(J2-Pin_14-Pad14)">
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(J2-Pin_24-Pad24)">
+      <node ref="J2" pin="24" pinfunction="Pin_24" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(J3-NC-PadR7)">
+      <node ref="J3" pin="R7" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-XTAL2-Pad4)">
+      <node ref="U1" pin="4" pinfunction="XTAL2" pintype="output+no_connect"/>
+    </net>
+  </nets>
+</export>
