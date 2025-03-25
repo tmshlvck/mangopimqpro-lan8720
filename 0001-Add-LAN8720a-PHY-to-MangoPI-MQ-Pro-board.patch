@@ -19,7 +19,7 @@ index 87f70b1af6b4..ee9391e5dc81 100644
  dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1-lichee-rv-dock.dtb
  dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1-lichee-rv.dtb
  dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1-mangopi-mq-pro.dtb
-+dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1-mangopi-mq-pro-lan8720.dts
++dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1-mangopi-mq-pro-lan8720.dtb
  dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1-nezha.dtb
  dtb-$(CONFIG_ARCH_SUNXI) += sun20i-d1s-mangopi-mq.dtb
 diff --git a/arch/riscv/boot/dts/allwinner/sun20i-d1-mangopi-mq-pro-lan8720.dts b/arch/riscv/boot/dts/allwinner/sun20i-d1-mangopi-mq-pro-lan8720.dts
